@@ -1,13 +1,13 @@
 <?php 
-session_start();
+// session_start();
 
-if($_COOKIE['usuario']) {
-    $_SESSION['usuario'] = $_COOKIE['usuario'];
-}
+// if($_COOKIE['usuario']) {
+//     $_SESSION['usuario'] = $_COOKIE['usuario'];
+// }
 
-if(!$_SESSION['usuario']) {
-    header('Location: login.php');
-}
+// if(!$_SESSION['usuario']) {
+//     header('Location: login.php');
+// }
 ?>
 
 <!DOCTYPE html>
@@ -25,7 +25,7 @@ if(!$_SESSION['usuario']) {
         <h2>Visualização do Exercício</h2>
     </header>
     <nav class="navegacao">
-        <span class="usuario">Usuário: <?= $_SESSION['usuario'] ?></span>
+        <!-- <span class="usuario">Usuário: <?= $_SESSION['usuario'] ?></span> -->
         <a href=<?= "/{$_GET['dir']}/{$_GET['file']}.php" ?> 
             class="verde">Sem formatação</a>
         <a href="index.php">Voltar</a>
