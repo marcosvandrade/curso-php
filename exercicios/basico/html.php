@@ -11,5 +11,7 @@ echo '</small>';
 
 <?= "<div>Outra forma de me 'expressar'!</div>" ?>
 
+<?= 2+2 ?>
+
 <br>
 <div><button><?= "Legal" ?></button></div>
