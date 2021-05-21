@@ -617,6 +617,11 @@
                     Desafio
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=basico&file=desafio_pratica">
+                    Desafio Prática
+                </a>
+            </li>
         </ul>
     </div>
 </nav>

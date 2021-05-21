@@ -33,6 +33,6 @@ echo '</small>';
     }
 
     [dobro] {
-        font-size: <?= 10 - 8 ?>rem;
+        font-size: <?= 10 - 7 ?>rem;
     }
 </style>
