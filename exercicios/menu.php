@@ -513,6 +513,11 @@
                 </a>
             </li>
             <li>
+                <a href="exercicio.php?dir=variaveis&file=desafio_equacao_pratica">
+                    Desafio Eq Prática
+                </a>
+            </li>
+            <li>
                 <a href="exercicio.php?dir=variaveis&file=atribuicoes">
                     Atribuições
                 </a>
