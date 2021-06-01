@@ -533,6 +533,11 @@
                 </a>
             </li>
             <li>
+                <a href="exercicio.php?dir=variaveis&file=desafio_variaveis_pratica">
+                    Desafio Variáveis Prática
+                </a>
+            </li>
+            <li>
                 <a href="exercicio.php?dir=variaveis&file=desafio_variaveis">
                     Desafio Variáveis
                 </a>
