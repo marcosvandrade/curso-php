@@ -7,8 +7,8 @@
     <title>Teste MAMP</title>
 </head>
 <body>
-    <!-- <?php
+    <?php
         phpinfo();
-    ?> -->
+    ?>
 </body>
 </html>
