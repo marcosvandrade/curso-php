@@ -1,3 +1,10 @@
 <?php
 
-echo 0b11;
+var_dump(1.1);
+
+echo '<br>';
+
+var_dump(2);
+
+
+?>
